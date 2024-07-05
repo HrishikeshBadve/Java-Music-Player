@@ -1,0 +1,3 @@
+C:\Users\hrish\Java_Music_Player\MP3MusicPlayer\src\assets\Down - Jay Sean.mp3
+C:\Users\hrish\Java_Music_Player\MP3MusicPlayer\src\assets\Stereo Hearts - Gym Class Heroes Featuring Adam Levine.mp3
+C:\Users\hrish\Java_Music_Player\MP3MusicPlayer\src\assets\Boulevard of Broken Dreams - Green Day.mp3
